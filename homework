@@ -1,0 +1,10 @@
+i = 1
+while i < 30:
+ print(i, "kentia")
+i= i + 2
+
+
+i = 2
+while i < 30:
+ print(i, "luwia")
+ i += 2
